@@ -1,3 +1,4 @@
 # hello-again-world
-This time for real
-gitHub is cool
+This time for real\n
+gitHub is cool\n
+again
